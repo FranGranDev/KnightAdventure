@@ -1,0 +1,1283 @@
+fileFormatVersion: 2
+guid: 4123c0673eb12a94a96feb9d891d5f35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7230701313902360510
+    second: Weapon_Axe_0
+  - first:
+      213: 6050946996866822095
+    second: Item_BrokenElitAxe
+  - first:
+      213: -7680431191027408428
+    second: Item_BrokenLittleStick
+  - first:
+      213: -6882801669400063914
+    second: Weapon_ThrowAxe
+  - first:
+      213: -778887527945202088
+    second: Weapon_SmallTomahawk
+  - first:
+      213: 3066067615112913586
+    second: Weapon_Axe
+  - first:
+      213: 1061891484207675786
+    second: Weapon_ElitAxe
+  - first:
+      213: 259951914579515667
+    second: Weapon_Tomahawk
+  - first:
+      213: 3814411489964336311
+    second: Weapon_ElitTomahawk
+  - first:
+      213: 5127893005180525054
+    second: Weapon_BigAxe
+  - first:
+      213: 622116740071402649
+    second: Weapon_HardAxe
+  - first:
+      213: -793338239548046374
+    second: Weapon_WarAxe
+  - first:
+      213: -4032382578244715356
+    second: Weapon_BigStick
+  - first:
+      213: -4763408650805238298
+    second: Weapon_LongMaul
+  - first:
+      213: -4522097615061594415
+    second: Weapon_Halbert
+  - first:
+      213: 8322598065774475718
+    second: Weapon_MoonHalbert
+  - first:
+      213: 3389550063281504707
+    second: Weapon_HeavyMace
+  - first:
+      213: 8883079979980599305
+    second: Weapon_ElitHeavyMace
+  - first:
+      213: -8776712528673903325
+    second: Weapon_HardMace
+  - first:
+      213: -5851287312763423452
+    second: Weapon_MorningStar
+  - first:
+      213: -7242841940032501752
+    second: Weapon_BigHammer
+  - first:
+      213: -3524151009407274209
+    second: Weapon_Maul
+  - first:
+      213: 2259387056541625692
+    second: Weapon_ElitMaul
+  - first:
+      213: 4045869962750266179
+    second: Weapon_Hammer
+  - first:
+      213: -311151382095135771
+    second: Weapon_Mace
+  - first:
+      213: 7463291972083877741
+    second: Icon_HeavyMace
+  - first:
+      213: -2744273686041684332
+    second: Icon_ElitHeavyMace
+  - first:
+      213: -1988997106352397148
+    second: Icon_HardMace
+  - first:
+      213: -6795528840801181652
+    second: Icon_MorningStar
+  - first:
+      213: -2912511241382228882
+    second: Icon_BigHammer
+  - first:
+      213: -7005579921026838521
+    second: Icon_Maul
+  - first:
+      213: 3172786668655798329
+    second: Icon_ElitMaul
+  - first:
+      213: 2556131937861684522
+    second: Icon_Hammer
+  - first:
+      213: -7880631826858626018
+    second: Icon_BrokenLittleStick
+  - first:
+      213: -6751716568976915090
+    second: Icon_BrokenElitAxe
+  - first:
+      213: 7095857307746674687
+    second: Icon_BrokenStick
+  - first:
+      213: -6323622237552897367
+    second: Icon_ThrowAxe
+  - first:
+      213: 7287856593503111979
+    second: Icon_SmallTomahawk
+  - first:
+      213: -1281878364842536401
+    second: Icon_Axe
+  - first:
+      213: 1178842082894413519
+    second: Icon_ElitAxe
+  - first:
+      213: -2430474047417885562
+    second: Icon_Tomahawk
+  - first:
+      213: 5597927446239928195
+    second: Icon_ElitTomahawk
+  - first:
+      213: -5949372178158248223
+    second: Icon_BigAxe
+  - first:
+      213: -7173352613937108781
+    second: Icon_HardAxe
+  - first:
+      213: 5478569920068557078
+    second: Icon_WarAxe
+  - first:
+      213: -7619956203597081669
+    second: Icon_Halbert
+  - first:
+      213: 585887923544862388
+    second: Icon_LongMaul
+  - first:
+      213: 6204167000591358487
+    second: Icon_BigStick
+  - first:
+      213: -1649952724901103343
+    second: Icon_Mace
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item_BrokenElitAxe
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 467
+        width: 5
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6, y: 0.2820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfa6fefb3849f350800000000000000
+      internalID: 6050946996866822095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_BrokenLittleStick
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 462
+        width: 9
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6, y: 0.2820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d12bf04680a96590800000000000000
+      internalID: -7680431191027408428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ThrowAxe
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 456
+        width: 19
+        height: 52
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65091fb29506b70a0800000000000000
+      internalID: -6882801669400063914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_SmallTomahawk
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 451
+        width: 21
+        height: 57
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.2264151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85618d88be5d035f0800000000000000
+      internalID: -778887527945202088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Axe
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 436
+        width: 25
+        height: 72
+      alignment: 9
+      pivot: {x: 0.23809524, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b26220504cdc8a20800000000000000
+      internalID: 3066067615112913586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ElitAxe
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 436
+        width: 26
+        height: 72
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89f532cda89cbe00800000000000000
+      internalID: 1061891484207675786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Tomahawk
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 415
+        width: 25
+        height: 93
+      alignment: 9
+      pivot: {x: 0.23809524, y: 0.3033708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319d13793e88b9300800000000000000
+      internalID: 259951914579515667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ElitTomahawk
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 411
+        width: 30
+        height: 97
+      alignment: 9
+      pivot: {x: 0.26923078, y: 0.29032257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b42e7e5a038fe430800000000000000
+      internalID: 3814411489964336311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BigAxe
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 394
+        width: 46
+        height: 115
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.31531534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9defbf48fe92740800000000000000
+      internalID: 5127893005180525054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_HardAxe
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 385
+        width: 35
+        height: 127
+      alignment: 9
+      pivot: {x: 0.12903225, y: 0.27642274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ca7c401e332a800800000000000000
+      internalID: 622116740071402649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_WarAxe
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 342
+        width: 45
+        height: 169
+      alignment: 9
+      pivot: {x: 0.26829267, y: 0.29696968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3410d031f7df4f0800000000000000
+      internalID: -793338239548046374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BigStick
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 275
+        width: 10
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30941707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acff39d8691a08c0800000000000000
+      internalID: -4032382578244715356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_LongMaul
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 254
+        width: 44
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29761907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e52bb8d119f4edb0800000000000000
+      internalID: -4763408650805238298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Halbert
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 243
+        width: 32
+        height: 268
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.29924244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1decc9e9d284e31c0800000000000000
+      internalID: -4522097615061594415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_MoonHalbert
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 243
+        width: 49
+        height: 268
+      alignment: 9
+      pivot: {x: 0.4255319, y: 0.2689394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c937d688decf7370800000000000000
+      internalID: 8322598065774475718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_HeavyMace
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 288
+        width: 21
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.25170067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c10c4ee2d91a0f20800000000000000
+      internalID: 3389550063281504707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ElitHeavyMace
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 288
+        width: 23
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900b02e5d2a074b70800000000000000
+      internalID: 8883079979980599305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_HardMace
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 289
+        width: 30
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.25174826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32deba8c47ad23680800000000000000
+      internalID: -8776712528673903325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_MorningStar
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 291
+        width: 46
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.27857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4257cf3c03d0ccea0800000000000000
+      internalID: -5851287312763423452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BigHammer
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 297
+        width: 31
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.37614676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808cf0831a14c7b90800000000000000
+      internalID: -7242841940032501752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Maul
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 293
+        width: 44
+        height: 117
+      alignment: 9
+      pivot: {x: 0.55, y: 0.31858408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13f1752453b71fc0800000000000000
+      internalID: -3524151009407274209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ElitMaul
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 276
+        width: 44
+        height: 117
+      alignment: 9
+      pivot: {x: 0.55, y: 0.31858408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d6743ae84fa5f10800000000000000
+      internalID: 2259387056541625692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Hammer
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 294
+        width: 31
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.30952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b07219b41d52830800000000000000
+      internalID: 4045869962750266179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Mace
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 262
+        width: 25
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebf8de67719eabf0800000000000000
+      internalID: -311151382095135771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_HeavyMace
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d678513a180f29760800000000000000
+      internalID: 7463291972083877741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitHeavyMace
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49698015f916ae9d0800000000000000
+      internalID: -2744273686041684332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_HardMace
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4e5908ba9a564e0800000000000000
+      internalID: -1988997106352397148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_MorningStar
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20af17068e61b1a0800000000000000
+      internalID: -6795528840801181652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BigHammer
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c8415057ea497d0800000000000000
+      internalID: -2912511241382228882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Maul
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7001691dd2e27ce90800000000000000
+      internalID: -7005579921026838521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitMaul
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938e25d3aa0080c20800000000000000
+      internalID: 3172786668655798329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Hammer
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dc64b5474397320800000000000000
+      internalID: 2556131937861684522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenLittleStick
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14347a5b1f52a290800000000000000
+      internalID: -7880631826858626018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenElitAxe
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65030a7d851d42a0800000000000000
+      internalID: -6751716568976915090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenStick
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7a91d30ac897260800000000000000
+      internalID: 7095857307746674687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ThrowAxe
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a216e4341bfd38a0800000000000000
+      internalID: -6323622237552897367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_SmallTomahawk
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bcdb585faa32560800000000000000
+      internalID: 7287856593503111979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Axe
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f225d4a3b6ad53ee0800000000000000
+      internalID: -1281878364842536401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitAxe
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcef33de0a61c5010800000000000000
+      internalID: 1178842082894413519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Tomahawk
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cd9d72bb8354ed0800000000000000
+      internalID: -2430474047417885562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitTomahawk
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f5a8f6a55dfad40800000000000000
+      internalID: 5597927446239928195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BigAxe
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee194c66859f6da0800000000000000
+      internalID: -5949372178158248223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_HardAxe
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8a8adbdc1237c90800000000000000
+      internalID: -7173352613937108781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_WarAxe
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61993dac05ac70c40800000000000000
+      internalID: 5478569920068557078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Halbert
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3df80843a704690800000000000000
+      internalID: -7619956203597081669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_LongMaul
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be251956fd712800800000000000000
+      internalID: 585887923544862388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BigStick
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ad2751401a91650800000000000000
+      internalID: 6204167000591358487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Mace
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119f4101db03a19e0800000000000000
+      internalID: -1649952724901103343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

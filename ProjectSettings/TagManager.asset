@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Enemy
+  - Item
+  - Object
+  - Target
+  - Level
+  - Field
+  - House
+  - Plant
+  - GlobalLight
+  - Spear
+  - Seeds
+  - Axe
+  - StaticObject
+  - DepthSystem
+  - Sword
+  - Storage
+  - Animal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Item
+  - Eye
+  - PostProcessing
+  - Obstacle
+  - PlayerObstacle
+  - Enemy
+  - ItemInHand
+  - Object
+  - CharacterOnly
+  - DepthSystem
+  - Sky
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Static
+    uniqueID: 1996154383
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

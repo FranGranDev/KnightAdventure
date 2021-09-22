@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 0b9c9e1074013214282978ecd7637298
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Box
+  - first:
+      213: 21300002
+    second: Things_1
+  - first:
+      213: 8665134196411419756
+    second: BoxBroken
+  - first:
+      213: -9222459223486235064
+    second: Board
+  - first:
+      213: 6260191411142346326
+    second: Things_4
+  - first:
+      213: 3658347772343308625
+    second: Things_5
+  - first:
+      213: -5425943794297490157
+    second: Things_0
+  - first:
+      213: 8665134196411419756
+    second: Things_2
+  - first:
+      213: 3887630654853717687
+    second: Things_3
+  - first:
+      213: 2166339870440278549
+    second: Things_6
+  - first:
+      213: 5878090103876915966
+    second: Things_7
+  - first:
+      213: 4165376735020460750
+    second: Things_8
+  - first:
+      213: -721011699567319478
+    second: Things_9
+  - first:
+      213: 2028758949534592612
+    second: Things_10
+  - first:
+      213: 8456116820849664973
+    second: Things_11
+  - first:
+      213: -3126942831470515785
+    second: Things_12
+  - first:
+      213: 2528176458957233502
+    second: Things_13
+  - first:
+      213: -8069211337645836864
+    second: Things_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Things_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 41
+        height: 52
+      alignment: 9
+      pivot: {x: 0.49607718, y: 0.026757754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb330c8d4f9ad2c4481b5b2b5c5a22d5
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 454
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.48767033, y: 0.043809474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf47cb64b5f8b5d41a323ba8dab692d0
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxBroken
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 455
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5061642, y: 0.06846842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847c306efeab52a4885ae15e751d6ee4
+      internalID: 8665134196411419756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Board
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 456
+        width: 13
+        height: 35
+      alignment: 9
+      pivot: {x: 0.48381746, y: 0.28360465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d70cb2e0d75e74db8cacec90256ac3
+      internalID: -9222459223486235064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 455
+        width: 61
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4958561, y: 0.051361084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f58b2107738bd0448c8ac65cfe84be4
+      internalID: -5425943794297490157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 415
+        width: 80
+        height: 32
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.06670707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42ece8b31f673f4688775f3344c8b27
+      internalID: 8665134196411419756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 363
+        width: 47
+        height: 41
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.024390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9978ab73a3f530800000000000000
+      internalID: 3887630654853717687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 312
+        width: 47
+        height: 41
+      alignment: 9
+      pivot: {x: 0.48936167, y: 0.024390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6564717abeaa0e650800000000000000
+      internalID: 6260191411142346326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 261
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.020833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1515d5b8aef05c230800000000000000
+      internalID: 3658347772343308625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 450
+        width: 61
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51acb5862a2601e10800000000000000
+      internalID: 2166339870440278549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 424
+        width: 27
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef292575ecb239150800000000000000
+      internalID: 5878090103876915966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 425
+        width: 48
+        height: 63
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.42857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca229642146ec930800000000000000
+      internalID: 4165376735020460750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 364
+        width: 15
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.054545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46a368eda37ef5f0800000000000000
+      internalID: -721011699567319478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 364
+        width: 15
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e67e90489972c10800000000000000
+      internalID: 2028758949534592612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 404
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc323f532792a5570800000000000000
+      internalID: 8456116820849664973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_12
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 404
+        width: 7
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9ee31ef0eda94d0800000000000000
+      internalID: -3126942831470515785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 314
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19512194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d96a53813e51320800000000000000
+      internalID: 2528176458957233502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Things_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 364
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5b01a7a07640090800000000000000
+      internalID: -8069211337645836864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4d85e09e8bae5d247a36847351c4cc88
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

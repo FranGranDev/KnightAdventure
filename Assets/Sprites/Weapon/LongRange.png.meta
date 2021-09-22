@@ -1,0 +1,1777 @@
+fileFormatVersion: 2
+guid: e028f50d96f20ab44b2595f684f6eec7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2682322277613629679
+    second: LongRange_0
+  - first:
+      213: 8742337318106595228
+    second: LightCrossBow
+  - first:
+      213: 8306117493002885154
+    second: LongRange_2
+  - first:
+      213: -4878906178651185872
+    second: LongRange_3
+  - first:
+      213: 2162597774759044319
+    second: LongRange_4
+  - first:
+      213: -1743574811800499557
+    second: LongRange_5
+  - first:
+      213: -2091528555486903263
+    second: LongRange_6
+  - first:
+      213: -5722025086607716220
+    second: LongRange_7
+  - first:
+      213: -4281596899156027979
+    second: LongRange_8
+  - first:
+      213: 8341851388212994467
+    second: LongRange_9
+  - first:
+      213: 5750034005912021031
+    second: LongRange_10
+  - first:
+      213: -8534717153305026252
+    second: LongRange_11
+  - first:
+      213: 3086394712493023038
+    second: LongRange_12
+  - first:
+      213: 8496907216323906526
+    second: LightCrossBow1
+  - first:
+      213: 6927129131389388703
+    second: LongRange_14
+  - first:
+      213: -8254853395827700237
+    second: LongRange_15
+  - first:
+      213: 4287403964344301840
+    second: LongRange_16
+  - first:
+      213: -8835276845025166892
+    second: LongRange_17
+  - first:
+      213: 4123589064255972974
+    second: LongRange_18
+  - first:
+      213: 7236686860443974528
+    second: LongRange_19
+  - first:
+      213: 1215591219952897223
+    second: LongRange_20
+  - first:
+      213: 4659197182795146613
+    second: LongRange_21
+  - first:
+      213: -3343626054417759972
+    second: LightCrossBow2
+  - first:
+      213: 6480782476306279494
+    second: LongRange_23
+  - first:
+      213: 8121811916609583869
+    second: LongRange_24
+  - first:
+      213: -2428962675412373304
+    second: LongRange_25
+  - first:
+      213: 1311248074113321161
+    second: LongRange_26
+  - first:
+      213: -7242005634816858627
+    second: LongRange_27
+  - first:
+      213: -6495653647058019813
+    second: LongRange_28
+  - first:
+      213: 2059628998530138212
+    second: LightCrossBow3
+  - first:
+      213: -5540683652462989450
+    second: LongRange_30
+  - first:
+      213: 2674993949813792214
+    second: LongRange_31
+  - first:
+      213: 6899680274681291274
+    second: LongRange_32
+  - first:
+      213: 3419476863350739803
+    second: LongRange_33
+  - first:
+      213: -5695800752797916339
+    second: LongRange_34
+  - first:
+      213: -6638792457061304056
+    second: LongRange_35
+  - first:
+      213: 7203970152742003976
+    second: LongRange_36
+  - first:
+      213: 786668885432933493
+    second: LightCrossBow4
+  - first:
+      213: 8894906324408652513
+    second: LongRange_38
+  - first:
+      213: -1786879194766298028
+    second: LongRange_39
+  - first:
+      213: 2199346988178662543
+    second: LongRange_40
+  - first:
+      213: 3045415894497935336
+    second: LongRange_41
+  - first:
+      213: -5428623736814459177
+    second: LongRange_42
+  - first:
+      213: 4039488769404254648
+    second: LongRange_43
+  - first:
+      213: -8201253448269323191
+    second: LongRange_44
+  - first:
+      213: -7988182527700835919
+    second: LongRange_45
+  - first:
+      213: -8603802139937607426
+    second: LongRange_46
+  - first:
+      213: 6219360800764213799
+    second: LongRange_47
+  - first:
+      213: -2545089407193195494
+    second: LongRange_48
+  - first:
+      213: 4572147046692255210
+    second: LongRange_49
+  - first:
+      213: 8553077658622539898
+    second: LongRange_50
+  - first:
+      213: -7582401532434703434
+    second: LongRange_51
+  - first:
+      213: -845090463233884454
+    second: LongRange_52
+  - first:
+      213: -47134135144065513
+    second: LongRange_53
+  - first:
+      213: 1662759671398245610
+    second: LongRange_54
+  - first:
+      213: -7246359823927409179
+    second: LongRange_1
+  - first:
+      213: -8004610110680874248
+    second: LongRange_49
+  - first:
+      213: 2210222186557502326
+    second: LongRange_55
+  - first:
+      213: 8752187687395100368
+    second: LongRange_56
+  - first:
+      213: 3959673574495654800
+    second: LongRange_57
+  - first:
+      213: 2393802156575000615
+    second: LongRange_58
+  - first:
+      213: 7431796315420030738
+    second: LongRange_59
+  - first:
+      213: 4970926094856951552
+    second: LongRange_13
+  - first:
+      213: -6148334099971396545
+    second: LongRange_22
+  - first:
+      213: -7583959242048757965
+    second: LongRange_29
+  - first:
+      213: 2929863728724166361
+    second: LongRange_37
+  - first:
+      213: 5604613239954912531
+    second: LongRange_60
+  - first:
+      213: 6002204281751153348
+    second: LongRange_61
+  - first:
+      213: -3513175209926626742
+    second: LongRange_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LongRange_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 459
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0f64266e5893520800000000000000
+      internalID: 2682322277613629679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightCrossBow
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 464
+        width: 12
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f7260d875035970800000000000000
+      internalID: 8742337318106595228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 438
+        width: 14
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.41791043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22858192ad1454370800000000000000
+      internalID: 8306117493002885154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 438
+        width: 13
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.40298507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d99091ea4aa4cb0800000000000000
+      internalID: -4878906178651185872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 437
+        width: 14
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.41791043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4209cd737130e10800000000000000
+      internalID: 2162597774759044319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 437
+        width: 13
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.40298507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a005f42f39dc7e0800000000000000
+      internalID: -1743574811800499557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 434
+        width: 15
+        height: 73
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.28169012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1240e943cd569f2e0800000000000000
+      internalID: -2091528555486903263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 433
+        width: 15
+        height: 73
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.28169012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4809fd410884790b0800000000000000
+      internalID: -5722025086607716220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 456
+        width: 68
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.5081967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5146a1e46b494c0800000000000000
+      internalID: -4281596899156027979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 439
+        width: 142
+        height: 61
+      alignment: 9
+      pivot: {x: 0.50344825, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1e88bf3a534c370800000000000000
+      internalID: 8341851388212994467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 467
+        width: 12
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7286dc0a6793ccf40800000000000000
+      internalID: 5750034005912021031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 467
+        width: 12
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43122dac7f79e8980800000000000000
+      internalID: -8534717153305026252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 388
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f5aca73a315da20800000000000000
+      internalID: 3086394712493023038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightCrossBow1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 419
+        width: 11
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb807e38141be570800000000000000
+      internalID: 8496907216323906526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 367
+        width: 14
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.41791043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9789b55e3b122060800000000000000
+      internalID: 6927129131389388703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 368
+        width: 12
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.41791043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd43c4929ed07d80800000000000000
+      internalID: -8254853395827700237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 366
+        width: 14
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.41791043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019f75f903bef7b30800000000000000
+      internalID: 4287403964344301840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 366
+        width: 14
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.41791043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d97a00558ac26580800000000000000
+      internalID: -8835276845025166892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_18
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 404
+        width: 70
+        height: 44
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66a9aef76ee93930800000000000000
+      internalID: 4123589064255972974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 429
+        width: 12
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bff73ab50ed6460800000000000000
+      internalID: 7236686860443974528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_20
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 429
+        width: 13
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc406926c5aed010800000000000000
+      internalID: 1215591219952897223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 373
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575610bf62bc8a040800000000000000
+      internalID: 4659197182795146613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightCrossBow2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 374
+        width: 11
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1140bc91dd0991d0800000000000000
+      internalID: -3343626054417759972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 354
+        width: 15
+        height: 73
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.28169012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cefc6535d50f950800000000000000
+      internalID: 6480782476306279494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 354
+        width: 15
+        height: 73
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.28169012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa7c0e28e876b070800000000000000
+      internalID: 8121811916609583869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_25
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 380
+        width: 140
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0fc5fd0579a4ed0800000000000000
+      internalID: -2428962675412373304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 334
+        width: 14
+        height: 80
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.2820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c880f51d2d723210800000000000000
+      internalID: 1311248074113321161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_27
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 334
+        width: 14
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df52d53be3a3f7b90800000000000000
+      internalID: -7242005634816858627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ad2276c6dcad5a0800000000000000
+      internalID: -6495653647058019813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightCrossBow3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 329
+        width: 11
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4608b7a69a5459c10800000000000000
+      internalID: 2059628998530138212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 359
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f212ae2998b13b0800000000000000
+      internalID: -5540683652462989450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 296
+        width: 14
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.41791043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd58fa13dc7f1520800000000000000
+      internalID: 2674993949813792214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 296
+        width: 14
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.41791043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02e52c57a690cf50800000000000000
+      internalID: 6899680274681291274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 296
+        width: 14
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.40909094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5310bd071c647f20800000000000000
+      internalID: 3419476863350739803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 296
+        width: 14
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.40909094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43e31a946374f0b0800000000000000
+      internalID: -5695800752797916339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_35
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 361
+        width: 76
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80971532f654ed3a0800000000000000
+      internalID: -6638792457061304056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 330
+        width: 134
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80524b68fa4a9f360800000000000000
+      internalID: 7203970152742003976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightCrossBow4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 284
+        width: 11
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.3414634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c1510fe2fcaea00800000000000000
+      internalID: 786668885432933493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 275
+        width: 15
+        height: 73
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.28169012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2d0c0cc2e017b70800000000000000
+      internalID: 8894906324408652513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 273
+        width: 15
+        height: 75
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.30136985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4543b63f6dab337e0800000000000000
+      internalID: -1786879194766298028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_40
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 332
+        width: 80
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84e630ee66a58e10800000000000000
+      internalID: 2199346988178662543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_41
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 298
+        width: 128
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efb0e8ee9d734a20800000000000000
+      internalID: 3045415894497935336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_42
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 266
+        width: 12
+        height: 54
+      alignment: 9
+      pivot: {x: 0.7, y: 0.28846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6abe33977a9a4b0800000000000000
+      internalID: -5428623736814459177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_43
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 266
+        width: 10
+        height: 54
+      alignment: 9
+      pivot: {x: 0.625, y: 0.28846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9358632a52f0830800000000000000
+      internalID: 4039488769404254648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 196
+        width: 15
+        height: 73
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.28169012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944a5fed07b4f2e80800000000000000
+      internalID: -8201253448269323191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 193
+        width: 13
+        height: 75
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.30136985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1e8637056442190800000000000000
+      internalID: -7988182527700835919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_46
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 191
+        width: 88
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5052632, y: 0.57377046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0f543e987299880800000000000000
+      internalID: -8603802139937607426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_47
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 178
+        width: 15
+        height: 80
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.2820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a3a8b52bb9f4650800000000000000
+      internalID: 6219360800764213799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_48
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 178
+        width: 14
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cd3aa2ba60eacd0800000000000000
+      internalID: -2545089407193195494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_50
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 134
+        width: 94
+        height: 51
+      alignment: 9
+      pivot: {x: 0.50495046, y: 0.6415094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78b68a70d2a2b670800000000000000
+      internalID: 8553077658622539898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_51
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 98
+        width: 97
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5096154, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb1ad2caf5e5c690800000000000000
+      internalID: -7582401532434703434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_54
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 71
+        width: 95
+        height: 23
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.5652174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4a9888c1f431710800000000000000
+      internalID: 1662759671398245610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 432
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5052c0222cf6b90800000000000000
+      internalID: -7246359823927409179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_49
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 338
+        width: 4
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2cd5bb389e9e090800000000000000
+      internalID: -8004610110680874248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67372705e594cae10800000000000000
+      internalID: 2210222186557502326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_56
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d68bb2a454067970800000000000000
+      internalID: 8752187687395100368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0939052032693f630800000000000000
+      internalID: 3959673574495654800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7288735e06e783120800000000000000
+      internalID: 2393802156575000615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_59
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217faaf9f5b032760800000000000000
+      internalID: 7431796315420030738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071ba832f64cf440800000000000000
+      internalID: 4970926094856951552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 192
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ca8ca16babcaaa0800000000000000
+      internalID: -6148334099971396545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_29
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.53055155, y: 0.46486628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f94aa304d50c690800000000000000
+      internalID: -7583959242048757965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_37
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6c7e6c987f8a820800000000000000
+      internalID: 2929863728724166361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adebfdf73b2a544f0800000000000000
+      internalID: -845090463233884454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71651f9f0cb885ff0800000000000000
+      internalID: -47134135144065513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b6f61c0697cd40800000000000000
+      internalID: 5604613239954912531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_61
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 432
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca2b134efc1c4350800000000000000
+      internalID: 6002204281751153348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LongRange_62
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 182
+        width: 4
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a427d9a92c1be3fc0800000000000000
+      internalID: -3513175209926626742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 009256cfc54b50b4e9fc0ac9e10832a2, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

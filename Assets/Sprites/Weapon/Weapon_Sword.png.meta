@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 5348af1e937627841aab942a0070fa93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2470920120245598931
+    second: Icon_Zweihander
+  - first:
+      213: 6552701418390661774
+    second: Weapon_ElitSaber
+  - first:
+      213: -3379357491163811736
+    second: Weapon_Sword
+  - first:
+      213: 5903156188881155119
+    second: Weapon_ElitSword
+  - first:
+      213: 7418987334235812396
+    second: Weapon_FatSword
+  - first:
+      213: 599346851267410055
+    second: Weapon_ElitFatSword
+  - first:
+      213: 8745159831735203780
+    second: Weapon_NarrowSword
+  - first:
+      213: 4390767406277522731
+    second: Weapon_ElitNarrowSword
+  - first:
+      213: -8799765650168078129
+    second: Weapon_SmallSword
+  - first:
+      213: -1463447201634098242
+    second: Weapon_ElitSmallSword
+  - first:
+      213: -8990516358583842921
+    second: Weapon_IrishSword
+  - first:
+      213: 1118364844679426614
+    second: Weapon_ElitIrishSword
+  - first:
+      213: -3771436985203914529
+    second: Weapon_Claymore
+  - first:
+      213: -2363290332045706823
+    second: Weapon_ElitClaymore
+  - first:
+      213: 7167983691418273888
+    second: Weapon_MasterClaymore
+  - first:
+      213: -1103978009890235158
+    second: Weapon_Zweihander
+  - first:
+      213: 1392132478468067383
+    second: Weapon_ElitZweihander
+  - first:
+      213: -3866163251831747590
+    second: Weapon_MasterEstok
+  - first:
+      213: 2359668792716579759
+    second: Weapon_Estok
+  - first:
+      213: -1038696062636042358
+    second: Item_BrokenSaber
+  - first:
+      213: 5756987651561058050
+    second: Item_BrokenElitSaber
+  - first:
+      213: -8668530768263471502
+    second: Weapon_BrokenSword
+  - first:
+      213: -491872748013391226
+    second: Weapon_BrokenElitSword
+  - first:
+      213: -5204639072916982007
+    second: Weapon_BrokenFatSword
+  - first:
+      213: 3694939309717114751
+    second: Weapon_BrokenElitFatSword
+  - first:
+      213: 1296745073761507063
+    second: Weapon_BrokenNarrowSword
+  - first:
+      213: 1657413268965364856
+    second: Weapon_BrokenElitNarrowSword
+  - first:
+      213: 2638143120061928373
+    second: Weapon_BrokenSmallSword
+  - first:
+      213: -6246217360818636439
+    second: Weapon_BrokenElitSmallSword
+  - first:
+      213: -2105900890006085494
+    second: Weapon_BrokenIrishSword
+  - first:
+      213: -5154698268934669809
+    second: Weapon_BrokenElitIrishSword
+  - first:
+      213: 4936956250011171334
+    second: Weapon_BrokenClaymore
+  - first:
+      213: -1160083164216688422
+    second: Weapon_BrokenElitClaymore
+  - first:
+      213: 6804833254705131768
+    second: Weapon_BrokenMasterClaymore
+  - first:
+      213: -5086559981332103373
+    second: Weapon_BrokenZweihander
+  - first:
+      213: -181621966293744259
+    second: Weapon_BrokenElitZweihander
+  - first:
+      213: -7507461015767055260
+    second: Weapon_BrokenMasterEstok
+  - first:
+      213: 9008975258651808360
+    second: Weapon_BrokenEstok
+  - first:
+      213: 279178603454520897
+    second: Icon_BrokenIrishSword
+  - first:
+      213: 3475193964243904314
+    second: Icon_BrokenZweihander
+  - first:
+      213: 653212546647158015
+    second: Weapon_Saber
+  - first:
+      213: -4551193720591946815
+    second: Icon_Saber
+  - first:
+      213: -5930952800764674645
+    second: Icon_ElitSaber
+  - first:
+      213: 9097806595055430047
+    second: Icon_Sword
+  - first:
+      213: 4112303924854841014
+    second: Icon_ElitSword
+  - first:
+      213: -5172052820552335933
+    second: Weapon_FatSword
+  - first:
+      213: 5407843402668502457
+    second: Weapon_ElitFatSword
+  - first:
+      213: -4772978616947035407
+    second: Weapon_SmallSword
+  - first:
+      213: 9184212875650125546
+    second: Weapon_ElitSmallSword
+  - first:
+      213: 8046226754028770309
+    second: Weapon_IrishSword
+  - first:
+      213: -3408321116457010459
+    second: Weapon_ElitIrishSword
+  - first:
+      213: 8095763195833268475
+    second: Weapon_Claymore
+  - first:
+      213: 3378556107934216791
+    second: Weapon_ElitClaymore
+  - first:
+      213: -6826543870257707932
+    second: Weapon_MasterClaymore
+  - first:
+      213: 2247046616706545445
+    second: Icon_ElitClaymore
+  - first:
+      213: 8713489649008821781
+    second: Weapon_ElitZweihander
+  - first:
+      213: -4206774947638979359
+    second: Weapon_MasterEstok
+  - first:
+      213: 1587963858085711391
+    second: Weapon_Estok
+  - first:
+      213: -9086903544873859056
+    second: Icon_ElitZweihander
+  - first:
+      213: 2608630919845741768
+    second: Weapon_Sword_20
+  - first:
+      213: 7717803504103166913
+    second: Weapon_BrokenSword
+  - first:
+      213: -1045709581057984147
+    second: Weapon_BrokenElitSword
+  - first:
+      213: 216417820532945596
+    second: Weapon_BrokenFatSword
+  - first:
+      213: 2979398675157574640
+    second: Weapon_BrokenSmallSword
+  - first:
+      213: -1349920686087662422
+    second: Icon_BrokenElitSaber
+  - first:
+      213: 943274757140935379
+    second: Icon_BrokenSword
+  - first:
+      213: 4653128777210928697
+    second: Icon_BrokenElitSword
+  - first:
+      213: 4264813631633324510
+    second: Icon_BrokenFatSword
+  - first:
+      213: -5116058332384151836
+    second: Icon_BrokenElitFatSword
+  - first:
+      213: 3086886603774819318
+    second: Icon_BrokenNarrowSword
+  - first:
+      213: -3488817240300496696
+    second: Icon_BrokenElitNarrowSword
+  - first:
+      213: 765218821734572721
+    second: Icon_BrokenSmallSword
+  - first:
+      213: 7273153318421393971
+    second: Icon_BrokenElitSmallSword
+  - first:
+      213: -7322993244777293677
+    second: Icon_BrokenElitIrishSword
+  - first:
+      213: 2554688698830918548
+    second: Icon_BrokenClaymore
+  - first:
+      213: 4024822978630250157
+    second: Icon_BrokenElitClaymore
+  - first:
+      213: 624772183073645253
+    second: Icon_BrokenMasterClaymore
+  - first:
+      213: -1101068433305001392
+    second: Icon_BrokenMasterEstok
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapon_ElitSaber
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 367
+        width: 41
+        height: 144
+      alignment: 9
+      pivot: {x: 0.7372725, y: 0.07605939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aaf5ae83fdfea50800000000000000
+      internalID: 6552701418390661774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Sword
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 361
+        width: 23
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.123188406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8603022344c1a11d0800000000000000
+      internalID: -3379357491163811736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ElitSword
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 360
+        width: 26
+        height: 142
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.123188406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24f8eb07493ce150800000000000000
+      internalID: 5903156188881155119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_FatSword
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 357
+        width: 17
+        height: 108
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.14423077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c227f3a4ca985f660800000000000000
+      internalID: 7418987334235812396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ElitFatSword
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 358
+        width: 17
+        height: 108
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.14423077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788fa0729ce415800800000000000000
+      internalID: 599346851267410055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_NarrowSword
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 357
+        width: 20
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.12698413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7779a788c0d5970800000000000000
+      internalID: 8745159831735203780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ElitNarrowSword
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 358
+        width: 20
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.11904763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25f88651b32fec30800000000000000
+      internalID: 4390767406277522731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_SmallSword
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 359
+        width: 18
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc02c0ba3c3f0e580800000000000000
+      internalID: -8799765650168078129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ElitSmallSword
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 360
+        width: 18
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11494253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb36f07168ac0bbe0800000000000000
+      internalID: -1463447201634098242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_IrishSword
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 359
+        width: 26
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13103448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797854371054b3380800000000000000
+      internalID: -8990516358583842921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ElitIrishSword
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 360
+        width: 30
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11888112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632f660a6ea358f00800000000000000
+      internalID: 1118364844679426614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Claymore
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 283
+        width: 39
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09574468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8862c3b0a29abc0800000000000000
+      internalID: -3771436985203914529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ElitClaymore
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 281
+        width: 42
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.093333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9fc49d6f7e33fd0800000000000000
+      internalID: -2363290332045706823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_MasterClaymore
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 280
+        width: 32
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5, y: 0.084112145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06887c2903bc97360800000000000000
+      internalID: 7167983691418273888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Zweihander
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 263
+        width: 51
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.14345992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec56a069d1eda0f0800000000000000
+      internalID: -1103978009890235158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ElitZweihander
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 261
+        width: 51
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5000013, y: 0.15194502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7309f530d19d15310800000000000000
+      internalID: 1392132478468067383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_MasterEstok
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 325
+        width: 22
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09770115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb46ea9101a85ac0800000000000000
+      internalID: -3866163251831747590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Estok
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 328
+        width: 24
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa35271d34a3fb020800000000000000
+      internalID: 2359668792716579759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_BrokenSaber
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 308
+        width: 24
+        height: 47
+      alignment: 9
+      pivot: {x: 0.39000455, y: 0.09673078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a875bfc2f6fc591f0800000000000000
+      internalID: -1038696062636042358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_BrokenElitSaber
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 309
+        width: 24
+        height: 51
+      alignment: 9
+      pivot: {x: 0.40941507, y: 0.08975155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f6b9b64cde4ef40800000000000000
+      internalID: 5756987651561058050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenSword
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 301
+        width: 23
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49150407, y: 0.16781265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e9c11b13133b780800000000000000
+      internalID: -8668530768263471502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenElitSword
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 298
+        width: 26
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5366905, y: 0.16271265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68277fb77548c29f0800000000000000
+      internalID: -491872748013391226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenFatSword
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 309
+        width: 17
+        height: 47
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.18604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9073aaaa65865c7b0800000000000000
+      internalID: -5204639072916982007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenElitFatSword
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 309
+        width: 17
+        height: 49
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.17777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fc05eb9bf074330800000000000000
+      internalID: 3694939309717114751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenNarrowSword
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 244
+        width: 21
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6dacd26c6fef110800000000000000
+      internalID: 1296745073761507063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenElitNarrowSword
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 312
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87413b63690500710800000000000000
+      internalID: 1657413268965364856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenSmallSword
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 246
+        width: 20
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b39ee1b0319c9420800000000000000
+      internalID: 2638143120061928373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenElitSmallSword
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 313
+        width: 20
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969f68a776af059a0800000000000000
+      internalID: -6246217360818636439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenIrishSword
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 241
+        width: 26
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20754717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80220f4c4656c2e0800000000000000
+      internalID: -2105900890006085494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenElitIrishSword
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 298
+        width: 30
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1632653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0af3d33c35d678b0800000000000000
+      internalID: -5154698268934669809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenClaymore
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 283
+        width: 40
+        height: 84
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.16250001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a7f816d87938440800000000000000
+      internalID: 4936956250011171334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenElitClaymore
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 282
+        width: 42
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad004fe228e86efe0800000000000000
+      internalID: -1160083164216688422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenMasterClaymore
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 279
+        width: 32
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.171875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0f676aacf9f6e50800000000000000
+      internalID: 6804833254705131768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenZweihander
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 263
+        width: 51
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.2535211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f7bff85a8e869b0800000000000000
+      internalID: -5086559981332103373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenElitZweihander
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 260
+        width: 51
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.3026316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7547afa8cfba7df0800000000000000
+      internalID: -181621966293744259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenMasterEstok
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 261
+        width: 22
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15860312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4648c1e7bf320d790800000000000000
+      internalID: -7507461015767055260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenEstok
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 268
+        width: 24
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19507076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8625932244f460d70800000000000000
+      internalID: 9008975258651808360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Zweihander
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25456cfd3785bdd0800000000000000
+      internalID: -2470920120245598931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenZweihander
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37e6548f7e5a3030800000000000000
+      internalID: 3475193964243904314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Saber
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 366
+        width: 41
+        height: 144
+      alignment: 9
+      pivot: {x: 0.73058957, y: 0.08577467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc6bbda95da01900800000000000000
+      internalID: 653212546647158015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Saber
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbe024ac69e6d0c0800000000000000
+      internalID: -4551193720591946815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitSaber
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad30dae9d501bda0800000000000000
+      internalID: -5930952800764674645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Sword
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f992c7d55e6e14e70800000000000000
+      internalID: 9097806595055430047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitSword
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beda69b1a6d11930800000000000000
+      internalID: 4112303924854841014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_FatSword
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdbb67cc5d2938b0800000000000000
+      internalID: -5172052820552335933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitFatSword
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdeef83ce48c0b40800000000000000
+      internalID: 5407843402668502457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_NarrowSword
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f236587c39f2cdb0800000000000000
+      internalID: -4772978616947035407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitNarrowSword
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec1ba43f0e47f70800000000000000
+      internalID: 9184212875650125546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_SmallSword
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50411202a90f9af60800000000000000
+      internalID: 8046226754028770309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitSmallSword
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eafd1da00633b0d0800000000000000
+      internalID: -3408321116457010459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_IrishSword
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b251cbbde95070800000000000000
+      internalID: 8095763195833268475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitIrishSword
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752352b31ea03ee20800000000000000
+      internalID: 3378556107934216791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Claymore
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4644ba1c48e3341a0800000000000000
+      internalID: -6826543870257707932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitClaymore
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52779861efc1f2f10800000000000000
+      internalID: 2247046616706545445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_MasterClaymore
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516c6337ba88ce870800000000000000
+      internalID: 8713489649008821781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_MasterEstok
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e457fb39788e95c0800000000000000
+      internalID: -4206774947638979359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Sword_18
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e8b5d27b4990610800000000000000
+      internalID: 1587963858085711391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitZweihander
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0184e83de55d4e180800000000000000
+      internalID: -9086903544873859056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Sword_20
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4818f1008b33420800000000000000
+      internalID: 2608630919845741768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenElitZweihander
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3955475652b1b60800000000000000
+      internalID: 7717803504103166913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenEstok
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 128
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69f0da2da4ec71f0800000000000000
+      internalID: -1045709581057984147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Estok
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb23ee37cded00300800000000000000
+      internalID: 216417820532945596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenSaber
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3690d3f43f85920800000000000000
+      internalID: 2979398675157574640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenElitSaber
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa41bc6c94e144de0800000000000000
+      internalID: -1349920686087662422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenSword
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d27af8d46f271d00800000000000000
+      internalID: 943274757140935379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenElitSword
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e1ec338fb339040800000000000000
+      internalID: 4653128777210928697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenFatSword
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed97fbae669af2b30800000000000000
+      internalID: 4264813631633324510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenElitFatSword
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6b0108d0c1009b0800000000000000
+      internalID: -5116058332384151836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenNarrowSword
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbf8e7d203d6da20800000000000000
+      internalID: 3086886603774819318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenElitNarrowSword
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c851a9543b359fc0800000000000000
+      internalID: -3488817240300496696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenSmallSword
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2aeecc67a9e9a00800000000000000
+      internalID: 765218821734572721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenElitSmallSword
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332f575886e6fe460800000000000000
+      internalID: 7273153318421393971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenIrishSword
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14edbcfe577dfd300800000000000000
+      internalID: 279178603454520897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenElitIrishSword
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d67851708f5a90800000000000000
+      internalID: -7322993244777293677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenClaymore
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493958516d3147320800000000000000
+      internalID: 2554688698830918548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenElitClaymore
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daee515bc2b0bd730800000000000000
+      internalID: 4024822978630250157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenMasterClaymore
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c266a58df2aba800800000000000000
+      internalID: 624772183073645253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenMasterEstok
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052a577f71838b0f0800000000000000
+      internalID: -1101068433305001392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: fda59ce2a80b1ad40ac155bfb8ab6824, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

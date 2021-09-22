@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CurrentGame/MainMenu.unity
+    guid: 31d7e253ef908f7459aaf93cbac5bce5
+  - enabled: 1
+    path: Assets/Scenes/CurrentGame/House_Peasant.unity
+    guid: 7118a05278406c14a88ec18b41835994
+  - enabled: 1
+    path: Assets/Scenes/CurrentGame/House_Karkas.unity
+    guid: 35b18f616c538db40b23b5372c01c124
+  - enabled: 1
+    path: Assets/Scenes/CurrentGame/House_Small.unity
+    guid: 88c66d3dfc6c22949883d5680526736c
+  - enabled: 1
+    path: Assets/Scenes/CurrentGame/House_Elite.unity
+    guid: 0080680c38cc5e3489e40bc30c6f6169
+  - enabled: 1
+    path: Assets/Scenes/CurrentGame/Taverna.unity
+    guid: 9e6849d0cadf6474dbf0b9eab4c6b981
+  - enabled: 1
+    path: Assets/Scenes/CurrentGame/Jail.unity
+    guid: ec67fd0ec5c3d3e4695ade2ff6fb5c6f
+  - enabled: 1
+    path: Assets/Scenes/CurrentGame/Village0.unity
+    guid: 767e5f0d1e90a5c4dad33cccffb2d940
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 365e73779afa7ee4d89d3c2be7fcd843,
+      type: 2}

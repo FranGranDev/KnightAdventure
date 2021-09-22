@@ -1,0 +1,600 @@
+{
+  "ItemName": [
+    "Метательный топор",
+    "Топорик",
+    "Топор",
+    "Элитный топор",
+    "Томогавк",
+    "Элитный томогавк",
+    "Большой топор",
+    "Грубый топор",
+    "Боевой топор",
+    "Молоток",
+    "Молот",
+    "Абендштерн",
+    "Шестопер",
+    "Грубая булава",
+    "Утренняя звездочка",
+    "Кувалда",
+    "Элитная кувалда",
+    "Гвизарма",
+    "Моргенштерн",
+    "---",
+    "Джавелин",
+    "Короткое копье",
+    "Элитное короткое копье",
+    "Копье",
+    "Элитное копье",
+    "Мастерское копье",
+    "Посох",
+    "Полэкс",
+    "Лунная алебарда",
+    "Алебарда",
+    "Короткий меч",
+    "Ульфберт",
+    "Меч",
+    "Элитный меч",
+    "Каролинг",
+    "Элитный каролинг",
+    "Меч викингов",
+    "Элитный меч викингов",
+    "Меч бастард",
+    "Элитный меч бастард",
+    "Сабля",
+    "Элитная сабля",
+    "Клеймор",
+    "Королевский клеймор",
+    "Эсток",
+    "Мастерский эсток",
+    "Цвайхандер",
+    "Элитный Цвайхандер",
+    "Мастерский клеймор",
+    "---",
+    "Сломанный посох",
+    "Сломанное древко",
+    "Сломанное мастерское копье",
+    "Сломанная палка",
+    "Сломанный элитный топор",
+    "Сломанный клемор",
+    "Сломанный элитный меч викингов",
+    "Сломанный элитный меч бастард",
+    "Сломанный каролинг",
+    "Сломанная элитная сабля",
+    "Сломанный ульфберт",
+    "Сломанный элитный меч",
+    "Сломанный элитный цвайхандер",
+    "Сломанный эсток",
+    "Сломанный меч викингов",
+    "Сломанный меч бастард",
+    "Сломанный мастерский клеймор",
+    "Сломанный мастерский эсток",
+    "Сломанный каролинг",
+    "Сломанная сабля",
+    "Сломанный короткий меч",
+    "Сломанный меч",
+    "Сломанный цвайхандер",
+    "Сломанный элитный клеймор",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "ObjectName": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  //--------------------------------------
+  "DialogStartText": [
+    "Здаров мужик", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  //----------DialogButtonText------------
+  "DialogButtonAskAbout": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogButtonAskAboutLand": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggar
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogButtonAskAboutSeller": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogButtonCompliment": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogButtonOffend": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogButtonPlunder": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogButtonHire": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogButtonMarket": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogButtonQuest": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogButtonGoodbye": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogButtonNull": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  //----------DialogText------------------
+  "DialogTextAskAbout": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextAskAboutLand": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextAskAboutSeller": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextCompliment": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextOffend": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextPlunder": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextHire": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextMarket": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextQuest": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextGoodbye": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextNull": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  //----------DialogTextAlt---------------
+  "DialogTextAltAskAbout": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextAltAskAboutLand": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextAltAskAboutSeller": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextAltCompliment": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextAltOffend": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextAltPlunder": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextAltHire": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextAltMarket": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextAltQuest": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextAltGoodbye": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  "DialogTextAltNull": [
+    "", //Peasant
+    "", //PeasantLady
+    "", //Beggat
+    "", //Solider
+    "", //Knight
+    "", //Seller
+    "", //Bandit
+    "", //Master
+    "" //MasterLady
+  ],
+  //--------------------------------------
+  "Buying": [
+    "Заплочана",
+    "Атрымана",
+    "Не дастаткова грошай",
+    "Бюджэт",
+    "Манет"
+  ]
+}

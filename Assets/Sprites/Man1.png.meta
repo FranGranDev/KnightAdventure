@@ -1,0 +1,700 @@
+fileFormatVersion: 2
+guid: bc34375c089a12149ad2a17e765de94c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Body1
+  - first:
+      213: 21300002
+    second: Body1_2
+  - first:
+      213: 21300004
+    second: Body1_3
+  - first:
+      213: 21300006
+    second: Face1_1
+  - first:
+      213: 21300008
+    second: Man1_4
+  - first:
+      213: 21300010
+    second: Man1_5
+  - first:
+      213: 21300012
+    second: Face2_1
+  - first:
+      213: 21300014
+    second: Face3_1
+  - first:
+      213: 21300016
+    second: Face2_2
+  - first:
+      213: 21300018
+    second: Face2_3
+  - first:
+      213: 21300020
+    second: Face3_2
+  - first:
+      213: 21300022
+    second: Face3_3
+  - first:
+      213: 21300024
+    second: Man1_0
+  - first:
+      213: -8323962847914427941
+    second: Man1_1
+  - first:
+      213: -4409051431386189451
+    second: Man1_2
+  - first:
+      213: 2482544124598728628
+    second: Man1_3
+  - first:
+      213: -3016093626378481913
+    second: Man1_6
+  - first:
+      213: 1827364438402437668
+    second: Man1_7
+  - first:
+      213: -118756450571702821
+    second: Man1_8
+  - first:
+      213: 3658387121483373271
+    second: HairIdle1
+  - first:
+      213: 4360712478514339317
+    second: HairIdle2
+  - first:
+      213: 7830927588756481978
+    second: HairIdle0
+  - first:
+      213: 2790805580698313604
+    second: ThinHair2
+  - first:
+      213: -1065325533716615812
+    second: ThinHair1
+  - first:
+      213: -5852076834988571632
+    second: ThinHair0
+  - first:
+      213: 5813359749437753684
+    second: FatHair2
+  - first:
+      213: 3625024643092313158
+    second: FatHair1
+  - first:
+      213: 6513682290202086101
+    second: FatHair0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Body1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc29476da2ea4e4a93fb26940452d46
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body1_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f536306a6b18ba3499bb2cbe4056c69a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body1_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d17df80b4c69949b36b4c7d46703b0
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Face1_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 53
+        width: 25
+        height: 37
+      alignment: 9
+      pivot: {x: 0.44, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b305615fb83349a4c8958620f806930c
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 7
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfdd8a1fd2a030499ac45acb0ccc013
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 5
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a206ea0307953d44081c8b2c59c660ab
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 183
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f6e85d2fc90214d82176c937bace8c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 28
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9f28e54e75b7c80800000000000000
+      internalID: -8323962847914427941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 5
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5717cc35517efc2c0800000000000000
+      internalID: -4409051431386189451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 4
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7b0fd6ab4c37220800000000000000
+      internalID: 2482544124598728628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 4
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f0466a3dea426d0800000000000000
+      internalID: -3016093626378481913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 51
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.48214287, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4229822664a1c5910800000000000000
+      internalID: 1827364438402437668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 53
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd23ec23a71a5ef0800000000000000
+      internalID: -118756450571702821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HairIdle1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 77
+        width: 27
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.72727275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da51ea34b335c230800000000000000
+      internalID: 3658387121483373271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HairIdle2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 54
+        width: 28
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8095238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdd57925ec548c30800000000000000
+      internalID: 4360712478514339317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HairIdle0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 102
+        width: 27
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.71428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7e2a5e62b0dac60800000000000000
+      internalID: 7830927588756481978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinHair2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 54
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.55, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48363baa3eeeab620800000000000000
+      internalID: 2790805580698313604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinHair1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 77
+        width: 23
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7deaa842143731f0800000000000000
+      internalID: -1065325533716615812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinHair0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 98
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014c63ccf1f39cea0800000000000000
+      internalID: -5852076834988571632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatHair2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 57
+        width: 25
+        height: 18
+      alignment: 9
+      pivot: {x: 0.48892882, y: 0.78863525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4598ac044e33da050800000000000000
+      internalID: 5813359749437753684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatHair1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 78
+        width: 32
+        height: 25
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.71999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644fd89e4bcae4230800000000000000
+      internalID: 3625024643092313158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatHair0
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 106
+        width: 33
+        height: 23
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.6956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da8f3f288f356a50800000000000000
+      internalID: 6513682290202086101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 45ced47367dda86419a2d936a756b1a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: a904a829e54196d49923adbb8e53cc52, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

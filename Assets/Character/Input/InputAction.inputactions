@@ -1,0 +1,44 @@
+{
+    "name": "InputAction",
+    "maps": [
+        {
+            "name": "Movement",
+            "id": "bc13ad44-e8d9-4696-8f26-826542959b34",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "26b0c308-37bf-4c86-912a-f5087c750a91",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "21254a22-db2d-4bef-a7bb-617491492a05",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c91e00bb-0dd8-4883-8db4-0950abe92315",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

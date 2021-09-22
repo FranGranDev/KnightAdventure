@@ -1,0 +1,303 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8453444202756572192
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1449448770798683175}
+  - component: {fileID: 5719602833822893233}
+  m_Layer: 0
+  m_Name: AudioData
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1449448770798683175
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8453444202756572192}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 458.9794, y: 150.292, z: -966.5344}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5719602833822893233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8453444202756572192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f134befd9800de041b64f54d6745e82d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sound:
+  - name: Music
+    sounds:
+    - name: MenuTheme
+      clip: {fileID: 0}
+      volume: 0
+      pitch: 0
+      Source: {fileID: 0}
+    - name: Music
+      clip: {fileID: 0}
+      volume: 0
+      pitch: 0
+      Source: {fileID: 0}
+    - name: BattleMusic
+      clip: {fileID: 0}
+      volume: 0
+      pitch: 0
+      Source: {fileID: 0}
+    - name: DieMusic
+      clip: {fileID: 0}
+      volume: 0
+      pitch: 0
+      Source: {fileID: 0}
+    Volume: 1
+    pitch: 0.3
+  - name: Effect
+    sounds:
+    - name: Hit
+      clip: {fileID: 8300000, guid: c55c2b4b8aece714ea8b2251e8d0c767, type: 3}
+      volume: 0.5
+      pitch: 1
+      Source: {fileID: 0}
+    - name: ObjectHit
+      clip: {fileID: 8300000, guid: 166c1c7bacb3f764b845ca4b70c0cb0a, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: SwordPick
+      clip: {fileID: 8300000, guid: 4172e27c46744bf48b18cd7273a8fc65, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: SwordDrop
+      clip: {fileID: 8300000, guid: 2de31cb3fdbafb84e84df4bb92eb3111, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: SwordTake
+      clip: {fileID: 8300000, guid: e59511430e31ca64aa7cdaf16fc7848f, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: SwordHide
+      clip: {fileID: 8300000, guid: fb2561459a968604ca72fc98b68afb45, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: SpearPick
+      clip: {fileID: 8300000, guid: 2751b812733f61b4892604393cd81ade, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: SpearDrop
+      clip: {fileID: 8300000, guid: 9a123fe73c09aa848ba0483f33e8140a, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: SpearTake
+      clip: {fileID: 8300000, guid: 1371a101e3f92f44cbad774ab0509184, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: SpearHide
+      clip: {fileID: 8300000, guid: ccdcae5cc09249740ab8bc484792f1da, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: AxePick
+      clip: {fileID: 8300000, guid: 2007270bd52c6204c86d7b2389abadc1, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: AxeDrop
+      clip: {fileID: 8300000, guid: 5ae57a4365e8f20469806b8ef6cbc567, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: AxeTake
+      clip: {fileID: 8300000, guid: fa9779cb50d613540ba70e6bdea43a12, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: AxeHide
+      clip: {fileID: 8300000, guid: cb8d12ec3d7956844ac848000c8abd3a, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: ItemDrop
+      clip: {fileID: 8300000, guid: cb8d12ec3d7956844ac848000c8abd3a, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: ItemPick
+      clip: {fileID: 8300000, guid: cb8d12ec3d7956844ac848000c8abd3a, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: ItemTake
+      clip: {fileID: 8300000, guid: cb8d12ec3d7956844ac848000c8abd3a, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: ItemHide
+      clip: {fileID: 8300000, guid: cb8d12ec3d7956844ac848000c8abd3a, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: Swing
+      clip: {fileID: 8300000, guid: 498adb19dc4245845a2255296bd492c8, type: 3}
+      volume: 0.6
+      pitch: 1
+      Source: {fileID: 0}
+    - name: Throw
+      clip: {fileID: 8300000, guid: 40d76dadd7e43cd458a55f3663302679, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: FlyHit
+      clip: {fileID: 8300000, guid: 774e715557d1c224ba6b4719dcf2d3c7, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: FlyObjectHit
+      clip: {fileID: 8300000, guid: 40d76dadd7e43cd458a55f3663302679, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: CrossbowLoad
+      clip: {fileID: 8300000, guid: bdaedc289e823e04783bf0b5f7ad1960, type: 3}
+      volume: 0.2
+      pitch: 1
+      Source: {fileID: 0}
+    - name: CrossbowSetBolt
+      clip: {fileID: 8300000, guid: 184edd8f1e40b0b4982fbfe2d7aa9b2f, type: 3}
+      volume: 0.2
+      pitch: 1
+      Source: {fileID: 0}
+    - name: CrossbowFire
+      clip: {fileID: 8300000, guid: d0a9784b80f1a5a4dbb7653d30cc2285, type: 3}
+      volume: 0.2
+      pitch: 1
+      Source: {fileID: 0}
+    - name: BowLoad
+      clip: {fileID: 8300000, guid: b651b09b8f5f16c4bb0509885904ea85, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: BowSetArrow
+      clip: {fileID: 8300000, guid: a5dec178c9a083245957b37798504b59, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: BowFire
+      clip: {fileID: 8300000, guid: e798826a06c0c7d45be896b56cb8800d, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: GunLoad
+      clip: {fileID: 8300000, guid: 75c929fcedd8d6d488a4518d7f541ace, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: GunSetBullet
+      clip: {fileID: 8300000, guid: 184edd8f1e40b0b4982fbfe2d7aa9b2f, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: GunFire
+      clip: {fileID: 8300000, guid: 43317c34c786d4240b09a10f42a49e21, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: BulletHit
+      clip: {fileID: 8300000, guid: 9c34a55529abaaf4cb23baa067ddbc95, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: BulletArmorHit
+      clip: {fileID: 8300000, guid: c8747c3ded7ad504b8db69cd7b5c8948, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: BulletObjectHit
+      clip: {fileID: 8300000, guid: 63e03e8810f55bb4787585816c5d5ac6, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: Block
+      clip: {fileID: 8300000, guid: c9d0d7efb218fbd4d8e39965a4fa82ca, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: Chamber
+      clip: {fileID: 8300000, guid: 33cc4fced1e3b9a4aa8d06ecd494ab59, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: Parry
+      clip: {fileID: 8300000, guid: f137342fccdd3894f8eddb94e1d579e4, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: FlyObjectHit
+      clip: {fileID: 8300000, guid: 40d76dadd7e43cd458a55f3663302679, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: FlyObjectHit
+      clip: {fileID: 8300000, guid: 40d76dadd7e43cd458a55f3663302679, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: Eat
+      clip: {fileID: 8300000, guid: 3c295586c60e58149a623b1f921602ca, type: 3}
+      volume: 0.1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: Drink
+      clip: {fileID: 8300000, guid: 436ce90786ea9a64c9038a5b01c67b9c, type: 3}
+      volume: 0.1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: Chamber
+      clip: {fileID: 8300000, guid: 33cc4fced1e3b9a4aa8d06ecd494ab59, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: Parry
+      clip: {fileID: 8300000, guid: f137342fccdd3894f8eddb94e1d579e4, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: FlyObjectHit
+      clip: {fileID: 8300000, guid: 40d76dadd7e43cd458a55f3663302679, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    - name: FlyObjectHit
+      clip: {fileID: 8300000, guid: 40d76dadd7e43cd458a55f3663302679, type: 3}
+      volume: 1
+      pitch: 1
+      Source: {fileID: 0}
+    Volume: 0
+    pitch: 0
+  - name: Other
+    sounds: []
+    Volume: 0
+    pitch: 0

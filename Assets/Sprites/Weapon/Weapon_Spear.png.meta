@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: c2526cc5611e42743b9f0c002767c972
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6938727997696601844
+    second: Icon_Javelin
+  - first:
+      213: -5250876180618207449
+    second: Weapon_ShortSpear
+  - first:
+      213: 4366947073720327175
+    second: Weapon_ElitShortSpear
+  - first:
+      213: -3104490759693982391
+    second: Weapon_Spear
+  - first:
+      213: 257244940879005716
+    second: Weapon_LongStick
+  - first:
+      213: -1372539523652645473
+    second: Weapon_ElitSpear
+  - first:
+      213: 1874019270286098006
+    second: Weapon_MasterSpear
+  - first:
+      213: -7914225706935573697
+    second: Weapon_Billhock
+  - first:
+      213: 4988807232580505206
+    second: Weapon_FatHalbert
+  - first:
+      213: -3878367669385636543
+    second: Weapon_Halbert
+  - first:
+      213: 2737055639492262080
+    second: Weapon_MoonHalbert
+  - first:
+      213: -3597019645146042785
+    second: Weapon_Spear_11
+  - first:
+      213: -5967412363207364654
+    second: Weapon_BrokenJavelin
+  - first:
+      213: 7206870579786860459
+    second: Icon_Halbert
+  - first:
+      213: 1207132037826139305
+    second: Weapon_BrokenElitShortSpear
+  - first:
+      213: -5928172523502935520
+    second: Weapon_BrokenLongStick
+  - first:
+      213: 6017320120074410569
+    second: Weapon_BrokenMasterSpear
+  - first:
+      213: 190152484920613726
+    second: Weapon_BrokenHalbert
+  - first:
+      213: -3355645010366262912
+    second: Weapon_Spear_18
+  - first:
+      213: 1640725436037510173
+    second: Weapon_BrokenStick
+  - first:
+      213: 8525633897432702200
+    second: Icon_Javelin
+  - first:
+      213: -1979015035134695153
+    second: Weapon_Javelin
+  - first:
+      213: -1845092402840548808
+    second: Icon_shortspear
+  - first:
+      213: -8415274187416291089
+    second: Icon_ElitShortSpear
+  - first:
+      213: -1252534203273878782
+    second: Icon_spear
+  - first:
+      213: -2197731054811904705
+    second: Icon_ElitSpear
+  - first:
+      213: -3109072215453914803
+    second: Icon_MasterSpear
+  - first:
+      213: -7351417792272930057
+    second: Icon_Billhock
+  - first:
+      213: -6958829302081923455
+    second: Icon_LongStick
+  - first:
+      213: -1345183161145573722
+    second: Icon_BrokenJavelin
+  - first:
+      213: 4651291072889595255
+    second: Icon_BrokenStick
+  - first:
+      213: -6134063360884737030
+    second: Icon_BrokenElitShortSpear
+  - first:
+      213: 1184708797653162564
+    second: Icon_BrokenHalbert
+  - first:
+      213: 7356922528256213502
+    second: Icon_BrokenMasterSpear
+  - first:
+      213: 8901966618638460747
+    second: Icon_FatHalbert
+  - first:
+      213: 1278325255711950125
+    second: Icon_MoonHalbert
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapon_ShortSpear
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 341
+        width: 11
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f11be1fe32127b0800000000000000
+      internalID: -5250876180618207449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ElitShortSpear
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 339
+        width: 10
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.34969324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c180af9338a9c30800000000000000
+      internalID: 4366947073720327175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Spear
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 217
+        width: 13
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.28421053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94525f33a12aae4d0800000000000000
+      internalID: -3104490759693982391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_LongStick
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 255
+        width: 9
+        height: 222
+      alignment: 9
+      pivot: {x: 0.6, y: 0.35616437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4180c5929eae19300800000000000000
+      internalID: 257244940879005716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_ElitSpear
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 217
+        width: 25
+        height: 289
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.31929824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d00844392c3fce0800000000000000
+      internalID: -1372539523652645473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_MasterSpear
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 226
+        width: 25
+        height: 273
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eb3abe89ad10a10800000000000000
+      internalID: 1874019270286098006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Billhock
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 289
+        width: 39
+        height: 216
+      alignment: 9
+      pivot: {x: 0.22857143, y: 0.3207547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3327d1a6a50b2290800000000000000
+      internalID: -7914225706935573697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_FatHalbert
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 256
+        width: 43
+        height: 250
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.34552845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e4cd60fbdcb3540800000000000000
+      internalID: 4988807232580505206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Halbert
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 247
+        width: 32
+        height: 259
+      alignment: 9
+      pivot: {x: 0.39285716, y: 0.32156864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145d8e537254d2ac0800000000000000
+      internalID: -3878367669385636543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_MoonHalbert
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 246
+        width: 51
+        height: 258
+      alignment: 9
+      pivot: {x: 0.4255319, y: 0.3019608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c87a624a99fbf520800000000000000
+      internalID: 2737055639492262080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Spear_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 244
+        width: 10
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39013454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ee7f8c0b1d41ec0800000000000000
+      internalID: -3597019645146042785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenJavelin
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 258
+        width: 9
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df20c6821e7f2da0800000000000000
+      internalID: -5967412363207364654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenElitShortSpear
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 257
+        width: 9
+        height: 73
+      alignment: 9
+      pivot: {x: 0.6, y: 0.10144928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4de97513890c010800000000000000
+      internalID: 1207132037826139305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenLongStick
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 254
+        width: 9
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5999985, y: 0.2081546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0226069af76eabda0800000000000000
+      internalID: -5928172523502935520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenMasterSpear
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 250
+        width: 11
+        height: 130
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.36507937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a98d0a4c0d18350800000000000000
+      internalID: 6017320120074410569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenHalbert
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 243
+        width: 10
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bd9d47dae83a200800000000000000
+      internalID: 190152484920613726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Javelin
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc5185ebd2215670800000000000000
+      internalID: 8525633897432702200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_BrokenStick
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 257
+        width: 9
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5332878, y: 0.16648369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14b6f4571705c610800000000000000
+      internalID: 1640725436037510173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Javelin
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 394
+        width: 13
+        height: 112
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09a3a19f402984e0800000000000000
+      internalID: -1979015035134695153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_shortspear
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83acaee3c3ae466e0800000000000000
+      internalID: -1845092402840548808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitShortSpear
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8b98b66b0f63b80800000000000000
+      internalID: -8415274187416291089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_spear
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20365d047ca1e9ee0800000000000000
+      internalID: -1252534203273878782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ElitSpear
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35871eef371081e0800000000000000
+      internalID: -2197731054811904705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_MasterSpear
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4925d8ea4b5ad4d0800000000000000
+      internalID: -3109072215453914803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Billhock
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fae518a7748af990800000000000000
+      internalID: -7351417792272930057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_LongStick
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186d3d48e954d6f90800000000000000
+      internalID: -6958829302081923455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenJavelin
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeb412ca03f45de0800000000000000
+      internalID: -1345183161145573722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenStick
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775a7825694bc8040800000000000000
+      internalID: 4651291072889595255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenElitShortSpear
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbf9b87fdd6fdaa0800000000000000
+      internalID: -6134063360884737030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenHalbert
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a9566ef5ee07010800000000000000
+      internalID: 1184708797653162564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Halbert
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7c862db92f30460800000000000000
+      internalID: 7206870579786860459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrokenMasterSpear
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1c7c09f0a091660800000000000000
+      internalID: 7356922528256213502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_FatHalbert
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47a45a99732a8b70800000000000000
+      internalID: 8901966618638460747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_MoonHalbert
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d250f161c068db110800000000000000
+      internalID: 1278325255711950125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
